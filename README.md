@@ -25,7 +25,7 @@ Matplotlib
 
 After creating our data frame, we got the following DataFrame:
 
-https://github.com/roderickspells/PyBer_Analysis/blob/main/analysis/Pyber_Summary_DataFrame.png
+![image](https://github.com/roderickspells/PyBer_Analysis/blob/main/analysis/Pyber_Summary_DataFrame.png)
 
 As seen above, we determined the total number or rides, drivers, total fares, average fare per rode and average fare per driver in three categories of cities, Rural, Suburban, and Rural.
 
@@ -37,7 +37,7 @@ Rural cities have the least amount of drivers and rides which will yield a highe
 
 We also wanted to see if the time of year impacted the number or drivers or fares so we created a charted to gain insight. The below chart shows total fares by city types from January to April 2019.
 
-https://github.com/roderickspells/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png
+![image](https://github.com/roderickspells/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 
 
